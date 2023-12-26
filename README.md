@@ -16,12 +16,7 @@
 [![img_contact](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />)](www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a#gh-light-mode-only)
 [![img_contact](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />)](www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a#gh-dark-mode-only)
 
-### Languages and Tools :
 
-[<img align="left" alt="python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:11px ;"/>]
-
-[<img align="left" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
-style="padding-right:11px;" size="0.5px;" />]
 
 
 
