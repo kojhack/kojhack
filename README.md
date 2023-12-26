@@ -9,8 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
+# GH-LIGHT-MODE-ONLY
+# GH-DARK-MODE-ONLY
 
 ### Connect with me :
 [![img_contact](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />)](www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a#gh-light-mode-only)
