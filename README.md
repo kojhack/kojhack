@@ -18,7 +18,14 @@
 
 ### Languages and Tools :
 
-[<img align="left" alt="python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:11px size:1px;"/>]
+[<img align="left" alt="python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:11px ;"/>]
+
+[<img align="left" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+style="padding-right:11px;" size="0.5px;" />]
+
+
+
+          
 
 
 ### My daily routine :
