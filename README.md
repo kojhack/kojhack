@@ -14,7 +14,7 @@
 
 ### Connect with me :
 (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />)](www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a#gh-light-mode-only)
-[![img_contact](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />)](www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a#gh-dark-mode-only)
+(<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />)](www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a#gh-dark-mode-only)
 
 
 
