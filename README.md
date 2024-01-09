@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning Java/Python
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Java app projects
 - 🤔 I’m looking for help with development of projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Tech
+- 📫 How to reach me: www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Technology💻, Manga, Basketball🏀
 
 # GH-LIGHT-MODE-ONLY
 # GH-DARK-MODE-ONLY
