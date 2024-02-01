@@ -28,9 +28,9 @@
         Eat-->Sleep;
         Sleep-->Code;
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kojhack&show_icons=true&locale=en&layout=compact" alt="kojhack" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kojhack&show_icons=true&locale=en&layout=compact" alt="kojhack" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kojhack&" alt="kojhack" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kojhack&" alt="kojhack" /></p>-->
  
 ![GHstats](https://github-readme-stats.vercel.app/api?username=kojhack&show_icons=true)
         
