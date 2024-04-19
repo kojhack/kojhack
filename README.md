@@ -35,3 +35,4 @@
 ![GHstats](https://github-readme-stats.vercel.app/api?username=kojhack&show_icons=true)
         
          
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
