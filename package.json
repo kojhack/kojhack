@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Melvynx/Melvynx.git"
+    "url": "git+https://github.com/kojhack/kojhack.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Melvynx/Melvynx/issues"
+    "url": "https://github.com/kojhack/kojhack/issues"
   },
-  "homepage": "https://github.com/Melvynx/Melvynx#readme",
+  "homepage": "https://github.com/kojhack/kojhack#readme",
   "devDependencies": {
     "eslint": "^7.30.0"
   }
