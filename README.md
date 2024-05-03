@@ -17,8 +17,15 @@
 
 
  
+### My daily routine :
+```mermaid
+   graph TD;
+        Code-->Eat;
+        Train-->Eat;
+        Eat-->Sleep;
+        Sleep-->Code;
           
-
+```
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kojhack&show_icons=true&locale=en&layout=compact" alt="kojhack" /></p>
 
