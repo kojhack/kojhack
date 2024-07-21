@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '03 4 * * *'
+    - cron: '04 4 * * *'
 
 jobs:
   update-readme:
@@ -22,7 +22,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
       
       - name: Install dependencies
-        run: npm install -g @mermaid-js/mermaid-cli
+        run: npm install
 
       - name: Update README.md file
         run: node index.js
