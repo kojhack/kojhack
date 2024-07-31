@@ -43,4 +43,4 @@ Added the `Fri 03 May 2024`
 
 Last update on Thu May 02 2024
 
-**245 day before 2025 ⏱** days before new years
+**163 day before 2025 ⏱** days before new years
