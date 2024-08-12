@@ -38,11 +38,3 @@
 
 
 
-
-Added the `Fri 03 May 2024`
-
-Last update on Fri Aug 09 2024
-
-**145 day before 2025 ⏱** days before new years
-
-🤖 This README.md is updated with horror, by Gabot ❤️
