@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ohini-j%C3%A9r%C3%A9mie-kuakuvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ir%c3%a8ne-amedji-%f0%9f%87%b9%f0%9f%87%ac-%e2%ad%90%ef%b8%8f-388861243/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ohini-j%C3%A9r%C3%A9mie-kuakuvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" www.linkedin.com/in/ohini-jérémie-kuakuvi-a106b128a" height="30" width="40" /></a>
 </p>
 
 ### My daily routine :
