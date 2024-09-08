@@ -28,8 +28,8 @@
 
 Added the `Fri 03 May 2024`
 
-Last update on Sat Sep 07 2024
+Last update on Sun Sep 08 2024
 
-**116 day before 2025 ⏱** days before new years
+**115 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with love, by Gabot ❤️
+🤖 This README.md is updated with hate, by Gabot ❤️
