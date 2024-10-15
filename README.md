@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java/Python
+- 🌱 I’m currently learning Java/Python/C/C#
 - 👯 I’m looking to collaborate on Java app projects
 - 🤔 I’m looking for help with development of projects
 - 💬 Ask me about Tech
