@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java/Python/C/C#
+- 🌱 I’m currently learning Java/Python
 - 👯 I’m looking to collaborate on Java app projects
 - 🤔 I’m looking for help with development of projects
 - 💬 Ask me about Tech
@@ -28,8 +28,8 @@
 
 Added the `Fri 03 May 2024`
 
-Last update on Mon Oct 14 2024
+Last update on Tue Oct 15 2024
 
-**79 day before 2025 ⏱** days before new years
+**78 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
+🤖 This README.md is updated with pleasure, by Gabot ❤️
